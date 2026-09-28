@@ -71,6 +71,10 @@ Execute o validador:
 python scripts/validar_comandos_redis.py
 ```
 
+Cada exercício deve exibir `OK` e, ao final, a mensagem *"TODOS OS 20 EXERCÍCIOS FORAM EXECUTADOS COM SUCESSO!"*.
+
+> **Atenção:** o script executa `FLUSHDB` no início e no fim.
+
 ## 4. Evidências (`prints/`)
 
 Sugestão de nomes para os arquivos:
